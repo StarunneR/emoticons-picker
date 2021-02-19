@@ -48,32 +48,32 @@
             },
             // Edit Here, Unicode to Chinese
             p = [{
-                title: "\u5e38\u7528",
+                title: "常用",
                 items: ["(\uff9f\u2200\u3002)"]
             }, {
-                title: "\u8eb2",
-                items: ["|\u2200\uff9f", "|\u2200`)", "|\u0434`)", "|\u0434\uff9f)", "|\u03c9\u30fb\xb4)", "|\u30fc`)", "|-`)"]
+                title: "躲",
+                items: ["|\u2200\uff9f", "|\u2200`)", "|\u0434`)", "|\u0434\uff9f)", "|\u03c9\u30fb\u00b4)", "|\u30fc`)", "|-`)"]
             }, {
-                title: "\u62f3",
-                items: ["\u2282\u5f61\u2606))\u0434\xb4)", "\u2282\u5f61\u2606))\u0434`)", "\u2282\u5f61\u2606))\u2200`)", "(\xb4\u2200((\u2606\u30df\u3064"]
+                title: "拳",
+                items: ["\u2282\u5f61\u2606))\u0434\u00b4)", "\u2282\u5f61\u2606))\u0434`)", "\u2282\u5f61\u2606))\u2200`)", "(\u00b4\u2200((\u2606\u30df\u3064"]
             }, {
-                title: "\u2200",
-                items: ["\uff9f\u2200\uff9f)\u03c3", "(\u03c3\uff9f\u2200\uff9f)\u03c3", "\u03c3`\u2200\xb4)", "(\uff9f\u2200\u3002)", "(*\uff9f\u2200\uff9f*)", "(\uff9f\u2200\uff9f)", "(\u30ce\uff9f\u2200\uff9f)\u30ce", "(*\xb4\u2200`)", "(\xb4\u2200`)", "(\u309d\u2200\uff65)", "(\u30fb\u2200\u30fb)", "(\uff61\u25d5\u2200\u25d5\uff61)", "(\u3003\u2200\u3003)"]
+                title: "∀",
+                items: ["\uff9f\u2200\uff9f)\u03c3", "(\u03c3\uff9f\u2200\uff9f)\u03c3", "\u03c3`\u2200\u00b4)", "(\uff9f\u2200\u3002)", "(*\uff9f\u2200\uff9f*)", "(\uff9f\u2200\uff9f)", "(\u30ce\uff9f\u2200\uff9f)\u30ce", "(*\u00b4\u2200`)", "(\u00b4\u2200`)", "(\u309d\u2200\uff65)", "(\u30fb\u2200\u30fb)", "(\u3003\u2200\u3003)"]
             }, {
-                title: "\u0434",
-                items: ["(\uff9f\u0434\uff9f)", "(\xb4\uff9f\u0414\uff9f`)", "(|||\uff9f\u0434\uff9f)", "\u03a3(\uff9f\u0434\uff9f)", "(((\uff9f\u0434\uff9f)))", "(\uff9f\u0414\uff9f\u2261\uff9f\u0414\uff9f)", "(\u0434)\uff9f\uff9f", "(\u2609\u0434\u2299)", "(;\uff9f\u0434\uff9f)", "(\u03c3\uff9f\u0434\uff9f)\u03c3", "(\u256c\uff9f\u0434\uff9f)", "(`\u0434\xb4)", "(\u3064\u0434\u2282)", "(>\u0434<)", "(T\u0434T)", "(-\u0434-)", "(\xb4\u0434`)", "(*\xb4\u0434`)", "(;\xb4\u0414`)", "\uff65\uff9f(\uff89\u0434`\uff9f)", "\uff9f(\u3064\u0434`\uff9f)", "\uff9f\u212b\uff9f)"]
+                title: "д",
+                items: ["(\uff9f\u0434\uff9f)", "(\u00b4\uff9f\u0414\uff9f`)", "(|||\uff9f\u0434\uff9f)", "\u03a3(\uff9f\u0434\uff9f)", "(((\uff9f\u0434\uff9f)))", "(\uff9f\u0414\uff9f\u2261\uff9f\u0414\uff9f)", "(\u0434)\uff9f\uff9f", "(\u2609\u0434\u2299)", "(*\uff9f\u2207\uff9f)", "(;\uff9f\u0434\uff9f)", "(\u03c3\uff9f\u0434\uff9f)\u03c3", "(\u256c\uff9f\u0434\uff9f)", "(`\u0434\u00b4)", "(\u3064\u0434\u2282)", "(>\u0434<)", "(T\u0434T)", "(-\u0434-)", "(\u00b4\u0434`)", "(*\u00b4\u0434`)", "(;\u00b4\u0414`)", "\uff65\uff9f(\uff89\u0434`\uff9f)", "\uff9f(\u3064\u0434`\uff9f)", "\uff9f\u212b\uff9f)"]
             }, {
-                title: "\u03c9",
-                items: ["(=\uff9f\u03c9\uff9f)=", "(\uff9f\u03c9\uff9f)", "(o\uff9f\u03c9\uff9fo)", "(*\xb4\u03c9`*)", "\u30fe(\xb4\u03c9\uff9f\uff40)", "(^\u03c9^)", "( ^\u03c9^)", "(\u30fb\u03c9\u30fb)", "(\uff40\uff65\u03c9\uff65)", "(`\u30fb\u03c9\u30fb\xb4)", "(\xb4\u30fb\u03c9\u30fb`)", "(\xb4\u30fb\u03c9)", "(\uff40\u30fb\u03c9)", "\uff08<\u309d\u03c9\u30fb\uff09\u2606"]
+                title: "ω",
+                items: ["(=\uff9f\u03c9\uff9f)=", "(\uff9f\u03c9\uff9f)", "(o\uff9f\u03c9\uff9fo)", "(*\u00b4\u03c9`*)", "\u30fe(\u00b4\u03c9\uff9f\uff40)", "(^\u03c9^)", "( ^\u03c9^)", "(\u30fb\u03c9\u30fb)", "(\uff40\uff65\u03c9\uff65)", "(`\u30fb\u03c9\u30fb\u00b4)", "(\u00b4\u30fb\u03c9\u30fb`)", "(\u00b4\u30fb\u03c9)", "(\uff40\u30fb\u03c9)", "\uff08<\u309d\u03c9\u30fb\uff09\u2606"]
             }, {
-                title: "\u30fc",
-                items: ["(\u30fb_\u309d\u30fb)", "(\xb4_\u309d`)", "(\xb4_\u3063`)", "(`_\u3063\xb4)", "(\xb4\u30fc`)", "(`\u30fc\xb4)", "(*\uff9f\u30fc\uff9f)", "(\u30fb\u30fc\u30fb)",  "\u00af\\_(\u30c4)_/\u00af",]
+                title: "ー",
+                items: ["(\u30fb_\u309d\u30fb)", "(\u00b4_\u309d`)", "(\u00b4_\u3063`)", "(`_\u3063\u00b4)", "(\u00b4\u30fc`)", "(`\u30fc\u00b4)", "(*\uff9f\u30fc\uff9f)", "(\u30fb\u30fc\u30fb)",  "\u00af\\_(\u30c4)_/\u00af",]
             }, {
-                title: "\u03b5",
-                items: ["(\uff9f3\uff9f)", "(`\u03b5\xb4)", "\u30fe(\xb4\u03b5`\u30fe)", "(`\u03b5\xb4(\u3064*\u2282)"]
+                title: "ε",
+                items: ["(\uff9f3\uff9f)", "(`\u03b5\u00b4)", "\u30fe(\u00b4\u03b5`\u30fe)", "(`\u03b5\u00b4(\u3064*\u2282)"]
             }, {
-                title: "\u5176\u4ed6",
-                items: ["\u2503\u96fb\u67f1\u2503", "(\uff3eo\uff3e)\uff89", "(`\u30ee\xb4)", "(\xb4\u03c1`)", "(`\u30fb\xb4)", "(*\uff9f\u2207\uff9f)"]
+                title: "其他",
+                items: ["\u1555( \u141b )\u1557", "\u2503\u96fb\u67f1\u2503", "(\uff3eo\uff3e)\uff89", "(`\u30ee\u00b4)", "(\u00b4\u03c1`)", "(`\u30fb\u00b4)"]
             }],
             v = function () {
                 function t() {

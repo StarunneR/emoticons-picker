@@ -1,4 +1,3 @@
-/*! For license information please see 2.f3979237.chunk.js.LICENSE.txt */
 (this["webpackJsonpemoticons-picker"] = this["webpackJsonpemoticons-picker"] || []).push([
     [2],
     [function (e, t, n) {
